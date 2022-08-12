@@ -10,3 +10,7 @@ replace style.css found in qb-hud/html with the style.css in the download
 
 if you have any suggestions or questions feel free to message me on discord
 Harry~#3489
+
+do not attempt to sell or upload elsewhere without my permission
+
+if you use this on your server feel free to share it with me id love to see it
